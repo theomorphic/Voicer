@@ -1,3 +1,3 @@
 # Voicer
 
-https://theomorphic.github.io/Voicer/
+https://theomorphic.github.io/Voicer
